@@ -1,5 +1,5 @@
-# EDA and ReportGeneration through pandas_profiling library
-Objective: Perform automatically EDA and generate report in html format automatically using ProfileReport module of class pandas_profiling
+# EDA and ReportGeneration through pandas_profiling module
+Objective: Perform automatically EDA and generate report in html format automatically using Python module pandas_profiling
 
 **This module is going to:
 1.	Summarize dataset
@@ -10,7 +10,10 @@ Objective: Perform automatically EDA and generate report in html format automati
 Beauty Of Project: 
 It takes only 5 lines of code to perform automated EDA and genrate report in HTML format.
 
-Output:	A processed report named: ‘housing.html’ will be generated.
+About Pandas Profiling module:
+Pandas profiling is an open source Python module with which we can quickly do an exploratory data analysis with just a few lines of code. It also generates interactive reports in web format that can be presented to any person.
+
+Output:	A processed report named: ‘housing.html’ has been generated.
 
 
 
